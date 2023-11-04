@@ -1,0 +1,35 @@
+.uni {
+    display: inline;
+    text-decoration-line: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color: rgb(255, 0, 0);
+}
+.txt{
+    display: inline;
+}
+.name{
+    text-align: center;
+    color: blueviolet;
+}
+.mood{
+    text-align: center;
+}
+.happy{
+    text-align: center;
+}
+.photo1{
+    display: block;
+    margin: 0 auto;
+}
+.sad{
+    text-align: center;
+}
+.photo2{
+    display: block;
+    margin: 0 auto;
+}
+body{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
